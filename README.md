@@ -1,5 +1,1 @@
-# Webpack template
-
-### Setup
-
-clone the repo or click the "use this template" button
+## Practice interacting with the open weather api
